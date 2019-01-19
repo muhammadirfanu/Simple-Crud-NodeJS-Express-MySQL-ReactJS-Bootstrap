@@ -4,6 +4,8 @@ Simples Crud feito com o objetivo de treinar as tecnologias NodeJS + Express + R
 Para instalar, basta clonar o respositório: <br> 
 https://github.com/jeversonjv/Simple-Crud-NodeJS-Express-MySQL-ReactJS-Bootstrap.git
 
+Subir o banco de dados: <br> <code> crud.sql </code>
+
 Depois basta rodar o comando no terminal: <br>
 <code> npm run dev </code>
 
